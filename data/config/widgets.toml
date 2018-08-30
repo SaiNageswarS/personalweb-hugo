@@ -1,0 +1,5 @@
+# Social Menu Widget config
+[social_menu]
+title = ""                            # default: ""
+platforms = ["github","instagram","email","linkedin","google_scholar"]
+
